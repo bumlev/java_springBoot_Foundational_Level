@@ -1,9 +1,8 @@
 package org.calculator.controller;
 
-
-import com.calculator.model.Operation;
-import com.calculator.repository.OperationRepository;
-import com.calculator.service.OperationService;
+import org.calculator.model.Operation;
+import org.calculator.repository.OperationRepository;
+import org.calculator.service.OperationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

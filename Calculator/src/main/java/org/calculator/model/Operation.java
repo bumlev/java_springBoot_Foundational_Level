@@ -1,4 +1,4 @@
-package com.calculator.model;
+package org.calculator.model;
 
 public class Operation {
 
